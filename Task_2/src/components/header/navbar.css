@@ -1,0 +1,16 @@
+.logo{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+}
+.logo img{
+    height: fit-content;
+    width: 250px;
+}
+.names{
+    display: flex;
+    /* justify-content: space-around; */
+    gap: 100px;
+    align-items: center;
+    font-size: 40px;
+}
